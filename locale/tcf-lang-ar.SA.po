@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tiny Contact Form v0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-11 11:39+0100\n"
+"PO-Revision-Date: 2010-12-30 03:08+0300\n"
+"Last-Translator: qasem <admin@gaayat.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ tcf-lang
+#: tiny-contact-form.php:104
+#: tiny-contact-form.php:509
+msgid "Name"
+msgstr "الاسم"
+
+#@ tcf-lang
+#: tiny-contact-form.php:106
+#: tiny-contact-form.php:511
+msgid "Email"
+msgstr "الإيميل"
+
+#@ tcf-lang
+#: tiny-contact-form.php:120
+#: tiny-contact-form.php:513
+msgid "Subject"
+msgstr "الموضوع"
+
+#@ tcf-lang
+#: tiny-contact-form.php:122
+#: tiny-contact-form.php:515
+msgid "Your Message"
+msgstr "الرسالة"
+
+#@ default
+#: tiny-contact-form.php:285
+msgid "Sorry, but you have no permissions to change settings."
+msgstr "عذرا ، لكن ليست لديك الصلاحيات لتغيير الإعدادات."
+
+#@ tcf-lang
+#: tiny-contact-form.php:340
+msgid "TO:"
+msgstr "إلى:"
+
+#@ default
+#: tiny-contact-form.php:341
+#: tiny-contact-form.php:345
+msgid "E-mail"
+msgstr "الإيميل"
+
+#@ tcf-lang
+#: tiny-contact-form.php:344
+msgid "FROM:"
+msgstr "من:"
+
+#@ tcf-lang
+#: tiny-contact-form.php:344
+#: tiny-contact-form.php:356
+#: tiny-contact-form.php:360
+msgid "(optional)"
+msgstr "(مطلوب)"
+
+#@ tcf-lang
+#: tiny-contact-form.php:348
+msgid "Message OK:"
+msgstr "في حال الإرسال:"
+
+#@ tcf-lang
+#: tiny-contact-form.php:352
+msgid "Message Error:"
+msgstr "في حال الخطأ:"
+
+#@ tcf-lang
+#: tiny-contact-form.php:405
+msgid "StyleSheet:"
+msgstr "المظهر:"
+
+#@ tcf-lang
+#: tiny-contact-form.php:406
+msgid "reset"
+msgstr "استعادة"
+
+#@ tcf-lang
+#: tiny-contact-form.php:410
+msgid "Use this field or the <code>style.css</code> in your theme directory."
+msgstr "استخدم هذا الحقل أو عدل في ملف الاستايل <code>style.css</code> الموجود ضمن ملفات الثيم."
+
+#@ default
+#: tiny-contact-form.php:415
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#@ tcf-lang
+#: tiny-contact-form.php:521
+msgid "Check these fields:"
+msgstr "تأكد من هذا الحقل:"
+
+#@ tcf-lang
+#: tiny-contact-form.php:356
+msgid "Submit Button:"
+msgstr "نص زر الإرسال"
+
+#@ tcf-lang
+#: tiny-contact-form.php:382
+msgid "use a little mathematic spam test like \" 12 + 5 = \""
+msgstr "تفعيل سؤال التحقق"
+
+#@ tcf-lang
+#: tiny-contact-form.php:385
+msgid "Captcha Label:"
+msgstr "نص يظهر بجانب سؤال التحقق:"
+
+#@ default
+#: tiny-contact-form.php:554
+msgid "Settings"
+msgstr "الإعدادات"
+
+#@ tcf-lang
+#: tiny-contact-form.php:174
+msgid "Please fill out all fields."
+msgstr "يرجى تعبئة جميع الحقول"
+
+#@ tcf-lang
+#: tiny-contact-form.php:177
+msgid "Wrong Email."
+msgstr "الإيميل غير صحيح"
+
+#@ cpd
+#: tiny-contact-form.php:331
+msgid "Options"
+msgstr "الخيارات"
+
+#@ tcf-lang
+#: tiny-contact-form.php:337
+msgid "Form"
+msgstr "النموذج"
+
+#@ tcf-lang
+#: tiny-contact-form.php:341
+msgid "one or more (e.g. email1,email2,email3)"
+msgstr "إيميل أو أكثر مثال: ( email1، email2، email3)"
+
+#@ tcf-lang
+#: tiny-contact-form.php:360
+msgid "Subject Prefix:"
+msgstr "بادئة الموضوع :"
+
+#@ tcf-lang
+#: tiny-contact-form.php:364
+msgid "Additional Fields:"
+msgstr "حقول إضافية :"
+
+#@ tcf-lang
+#: tiny-contact-form.php:366
+msgid "The contact form includes the fields Name, Email, Subject and Message. If you need more (e.g. Phone, Website) type in the name of the field."
+msgstr "إذا كنت بحاجة لحقول غير الموجودة مثل ( الهاتف , العنوان ... إلخ ) يمكنك اضافتها من هنا"
+
+#@ tcf-lang
+#: tiny-contact-form.php:369
+msgid "Field"
+msgstr "حقل"
+
+#@ tcf-lang
+#: tiny-contact-form.php:374
+msgid "After Submit"
+msgstr "بعد الإرسال"
+
+#@ tcf-lang
+#: tiny-contact-form.php:375
+msgid "hide the form"
+msgstr "اخفي نموذج الإتصال"
+
+#@ tcf-lang
+#: tiny-contact-form.php:378
+#: tiny-contact-form.php:381
+msgid "Captcha"
+msgstr "محارب الإسبام"
+
+#@ tcf-lang
+#: tiny-contact-form.php:389
+msgid "Alternative Captcha:"
+msgstr "ضع سؤال من عندك"
+
+#@ tcf-lang
+#: tiny-contact-form.php:390
+msgid "Set you own question and answer."
+msgstr "اكتب السؤال والاجابة عليه"
+
+#@ tcf-lang
+#: tiny-contact-form.php:393
+msgid "Question:"
+msgstr "السؤال"
+
+#@ tcf-lang
+#: tiny-contact-form.php:397
+msgid "Answer:"
+msgstr "الاجابة"
+
+#@ tcf-lang
+#: tiny-contact-form.php:401
+msgid "Style"
+msgstr "المظهر"
+
+#@ tcf-lang
+#: tiny-contact-form.php:431
+msgid "Contact"
+msgstr "راسل"
+
+#@ tcf-lang
+#: tiny-contact-form.php:435
+msgid "Bug? Problem? Question? Hint? Praise?"
+msgstr "عند وجود علة أو مشكلة أو اقتراح"
+
+#@ tcf-lang
+#: tiny-contact-form.php:436
+#, php-format
+msgid "Write a comment on the <a href=\"%s\">plugin page</a>."
+msgstr "قم بكتابة تعليق في <a href=\"%s\">صفحة الإضافة</a>.  تعريب <a href=\"http://gaayat.com\">قاسم</a>"
+
+#@ default
+#: tiny-contact-form.php:437
+msgid "License"
+msgstr "رخصة الإستخدام"
+
